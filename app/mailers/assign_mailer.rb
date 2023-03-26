@@ -1,5 +1,5 @@
 class AssignMailer < ApplicationMailer
-  default from: 'from@example.com'
+  default from: 'bluefoxxexx@gmail.com'
 
   def assign_mail(email, password)
     @email = email
